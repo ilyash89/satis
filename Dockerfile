@@ -1,4 +1,4 @@
-FROM php:7-alpine
+FROM php:cli-alpine
 
 MAINTAINER https://github.com/composer/satis
 
